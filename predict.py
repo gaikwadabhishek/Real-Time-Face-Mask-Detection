@@ -24,7 +24,8 @@ cvNet = cv2.dnn.readNetFromCaffe('model/architecture.txt','model/weights.caffemo
 print("loaded ssd model")
 
 #load prediction model
-model = load_model("C:/Users/abhis/jupyter/Untitled Folder/mask_prediction.h5")
+saved_model_path = "C:/CS256/Project/FaceMaskDetection/Real-Time-Face-Mask-Detection/model/MaskDetection/mask_prediction.h5"
+model = load_model(saved_model_path)
 print("loaded weights of model")
 
 def adjust_gamma(image, gamma=1.0):
