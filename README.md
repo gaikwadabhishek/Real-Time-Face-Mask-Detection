@@ -19,6 +19,14 @@ Keywords: Computer vision, deep learning, face mask detection, SSD
 
 ## Usage
 
+### Dependencies
+Following packages should be installed:
+1. OpenCV- `pip install opencv-python`
+2. Keras- `pip install keras`
+3. NumPy- `pip install numpy`
+4. MatPlotLib- `pip install matplotlib`
+5. TensorFlow- `pip install tensorflow`
+
 ### Train
 Code realted to loading model, preprocessing, architecture is in 
 `milestone3.ipynb`
