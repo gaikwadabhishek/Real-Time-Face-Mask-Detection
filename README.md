@@ -5,14 +5,30 @@ Detecting facemasks using SSD and CNN
 In this project, a face mask detection model is proposed that can classify people not wearing masks in a live video feed. The system can be deployed in a network of surveillance cameras and predictions from the model can be used to notify concerned authorities in case of mask mandate violation. The model implements a deep learning architecture that has been trained on a dataset containing images of people with and without masks along with bounding box coordinates for every face present in each image. The trained model achieved 95.04% accuracy on previously unseen test data. 
 Keywords: Computer vision, deep learning, face mask detection, SSD 
 
+## Data
+### Pretrained model (SSD Model for Face Detection)
+
+[Caffe Face Detector (OpenCV Pre-trained Model)](https://www.kaggle.com/datasets/sambitmukherjee/caffe-face-detector-opencv-pretrained-model)
+
+### Dataset
+
+[Face Mask Detection Dataset](https://www.kaggle.com/datasets/wobotintelligence/face-mask-detection-dataset)
+
 ## Usage
 
+### Train
+Code realted to loading model, preprocessing, architecture is in 
+`milestone3.ipynb`
+or
+`milestone3.py`
+
+### Test
 `predict.py [options] absolute/path/to/file`
 
 Where `options` can be:
   * `photo` to predict correctly worn fask masks in a photo
   * `video` to predict correctly worn fask masks in a video 
-  * `live` to predict correctly worn fask masks in a live feed through camera (here absolute/path/to/file is 0 for webcam and 1 for external camera)
+  * `live` to predict correctly worn fask masks in a live feed through camera (here absolute/path/to/file is '0' for webcam and '1' for external camera)
 
 For example:
 
