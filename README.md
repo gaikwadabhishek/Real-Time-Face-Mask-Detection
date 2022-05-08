@@ -27,6 +27,8 @@ Following packages should be installed:
 4. MatPlotLib- `pip install matplotlib`
 5. TensorFlow- `pip install tensorflow`
 
+Download the CNN model from given link and chnage the value of variable 'saved_model_path' in predict.py to the absolute path of the downloaded file.
+
 ### Train
 Code realted to loading model, preprocessing, architecture is in 
 `milestone3.ipynb`
