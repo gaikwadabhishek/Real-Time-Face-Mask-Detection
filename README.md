@@ -14,6 +14,9 @@ Keywords: Computer vision, deep learning, face mask detection, SSD
 
 [Face Mask Detection Dataset](https://www.kaggle.com/datasets/wobotintelligence/face-mask-detection-dataset)
 
+### CNN Model
+[Model.h5](https://drive.google.com/file/d/1VczxaCUvmclf0r8AS2MowJXFT89toTBW/view?usp=sharing)
+
 ## Usage
 
 ### Train
