@@ -49,7 +49,7 @@ For example:
     python predict.py video D:/video2.mp4
     python test.py image D:/test3.jpeg
 
-## Paper
+## Report
 
 [Link](https://docs.google.com/document/d/1t4enSvEgsf_3m8gnccXXQPKyaFD_xsqdRxrKDq00VBI/edit?usp=sharing)
 
