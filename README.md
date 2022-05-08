@@ -38,13 +38,17 @@ For example:
 
 ## Paper
 
-[Link](https://nodejs.org/api/vm.html)
+[Link](https://docs.google.com/document/d/1t4enSvEgsf_3m8gnccXXQPKyaFD_xsqdRxrKDq00VBI/edit?usp=sharing)
+
+## Slides
+
+[Link](https://docs.google.com/presentation/d/171OZS_-VAJJyMbj2lwdQ0ClteC4yggXWRTkGrcXGlNw/edit?usp=sharing)
 
 ## Results
-<br />
-**Test Loss for Model:**  0.1662766933441162
-<br />
-**Test Accuracy for Model:**  0.9408695697784424
+<br>
+Test Loss for Model:      0.1662766933441162
+<br>
+Test Accuracy for Model:  0.9408695697784424
 
 ### Model Accuracy:
 ![Model Accuracy](https://github.com/gaikwadabhishek/Real-Time-Face-Mask-Detection/blob/main/Results/model_accuracy.png?raw=true)
