@@ -2,7 +2,7 @@
 Detecting facemasks using SSD and CNN
 
 ## Abstract
-In light of the recent Covid outburst, the stress on the usage of facemasks has risen to an all-time high. But, it is very hard to enforce the mask mandate, especially in countries with a dense population. In this paper, a face mask detection model is proposed that can classify people not wearing masks in a live video feed. The system can be deployed in a network of surveillance cameras and predictions from the model can be used to notify concerned authorities in case of mask mandate violation. The model implements a deep learning architecture that has been trained on a dataset containing images of people with and without masks along with bounding box coordinates for every face present in each image. The trained model achieved 95.04% accuracy on previously unseen test data. 
+In this project, a face mask detection model is proposed that can classify people not wearing masks in a live video feed. The system can be deployed in a network of surveillance cameras and predictions from the model can be used to notify concerned authorities in case of mask mandate violation. The model implements a deep learning architecture that has been trained on a dataset containing images of people with and without masks along with bounding box coordinates for every face present in each image. The trained model achieved 95.04% accuracy on previously unseen test data. 
 Keywords: Computer vision, deep learning, face mask detection, SSD 
 
 ## Usage
@@ -20,3 +20,16 @@ For example:
     python predict.py video D:/video2.mp4
     python test.py image D:/test3.jpeg
 
+## Paper
+
+[Link](https://nodejs.org/api/vm.html)
+
+## Results
+
+### Model Accuracy:
+![Model Accuracy](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+### Model Loss:
+![Model Loss](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+## 
