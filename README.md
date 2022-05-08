@@ -43,9 +43,9 @@ For example:
 ## Results
 
 ### Model Accuracy:
-![Model Accuracy](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Model Accuracy](https://github.com/gaikwadabhishek/Real-Time-Face-Mask-Detection/blob/main/Results/model_accuracy.png?raw=true)
 
 ### Model Loss:
-![Model Loss](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Model Loss](https://github.com/gaikwadabhishek/Real-Time-Face-Mask-Detection/blob/main/Results/model_loss.png?raw=true)
 
 ## 
