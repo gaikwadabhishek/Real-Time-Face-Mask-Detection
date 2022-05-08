@@ -59,6 +59,6 @@ For example:
 ![predict.py live example](https://github.com/gaikwadabhishek/Real-Time-Face-Mask-Detection/blob/main/Results/live.gif?raw=true)
 
 #### `python predict.py image /path/to/image.extension`
-![predict.py image example](https://github.com/gaikwadabhishek/Real-Time-Face-Mask-Detection/blob/main/Results/image.jpeg?raw=true)
+![predict.py image example](https://github.com/gaikwadabhishek/Real-Time-Face-Mask-Detection/blob/main/Results/image.png?raw=true)
 
 
