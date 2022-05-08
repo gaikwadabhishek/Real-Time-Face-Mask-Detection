@@ -42,9 +42,9 @@ For example:
 
 ## Results
 <br />
-Test Loss for Model:  0.1662766933441162
+**Test Loss for Model:**  0.1662766933441162
 <br />
-Test Accuracy for Model:  0.9408695697784424
+**Test Accuracy for Model:**  0.9408695697784424
 
 ### Model Accuracy:
 ![Model Accuracy](https://github.com/gaikwadabhishek/Real-Time-Face-Mask-Detection/blob/main/Results/model_accuracy.png?raw=true)
@@ -52,4 +52,13 @@ Test Accuracy for Model:  0.9408695697784424
 ### Model Loss:
 ![Model Loss](https://github.com/gaikwadabhishek/Real-Time-Face-Mask-Detection/blob/main/Results/model_loss.png?raw=true)
 
-## 
+#### `python predict.py video /path/to/video.extension`
+![predict.py video example](https://github.com/gaikwadabhishek/Real-Time-Face-Mask-Detection/blob/main/Results/video.gif?raw=true)
+
+#### `python predict.py live 0`
+![predict.py live example](https://github.com/gaikwadabhishek/Real-Time-Face-Mask-Detection/blob/main/Results/live.gif?raw=true)
+
+#### `python predict.py image /path/to/image.extension`
+![predict.py image example](https://github.com/gaikwadabhishek/Real-Time-Face-Mask-Detection/blob/main/Results/image.jpeg?raw=true)
+
+
