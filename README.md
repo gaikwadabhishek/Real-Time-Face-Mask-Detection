@@ -42,6 +42,9 @@ For example:
 
 ## Results
 
+Test Loss for Model:  0.1662766933441162
+Test Accuracy for Model:  0.9408695697784424
+
 ### Model Accuracy:
 ![Model Accuracy](https://github.com/gaikwadabhishek/Real-Time-Face-Mask-Detection/blob/main/Results/model_accuracy.png?raw=true)
 
