@@ -14,10 +14,20 @@ Keywords: Computer vision, deep learning, face mask detection, SSD
 
 [Face Mask Detection Dataset](https://www.kaggle.com/datasets/wobotintelligence/face-mask-detection-dataset)
 
-### CNN Model
+### CNN Model for mask detection
 [Model.h5](https://drive.google.com/file/d/1VczxaCUvmclf0r8AS2MowJXFT89toTBW/view?usp=sharing)
 
 ## Usage
+
+### Dependencies
+Following packages should be installed:
+1. OpenCV- `pip install opencv-python`
+2. Keras- `pip install keras`
+3. NumPy- `pip install numpy`
+4. MatPlotLib- `pip install matplotlib`
+5. TensorFlow- `pip install tensorflow`
+
+Download the CNN model from given link and chnage the value of variable 'saved_model_path' in predict.py to the absolute path of the downloaded file.
 
 ### Train
 Code realted to loading model, preprocessing, architecture is in 
