@@ -57,6 +57,9 @@ For example:
 
 [Link](https://docs.google.com/presentation/d/171OZS_-VAJJyMbj2lwdQ0ClteC4yggXWRTkGrcXGlNw/edit?usp=sharing)
 
+## Video
+[Link](https://youtu.be/wD2J3dGQsdw)
+
 ## Results
 <br>
 Test Loss for Model:      0.1662766933441162
